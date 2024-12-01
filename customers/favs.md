@@ -1,2 +1,2 @@
 # Favorite customers
-* Jessee Pinkman, Heisenberg's Assistant, Chemist
+* Walter White, Heisenberg, Chemist
